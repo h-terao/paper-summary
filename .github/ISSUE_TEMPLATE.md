@@ -1,6 +1,6 @@
 ---
 name: summary
-about: Title of paper
+about: Summarize papers
 title: ''
 labels: ''
 assignees: ''
